@@ -1,0 +1,706 @@
+/* www.nie.ir Webfont pack - 2016 */
+@font-face{
+	font-family: 'byekan';
+	src: url(BYekan.eot);
+	src: url(BYekan.eot?#iefix) format("embedded-opentype"), url(BYekan.woff) format("woff"), url(BYekan.ttf) format("truetype"), url(BYekan.svg#byekan) format("svg");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'YekanNIE';
+	src: url(YekanNIE-Regular.eot);
+	src: url(YekanNIE-Regular.eot?#iefix) format("embedded-opentype"), url(YekanNIE-Regular.woff) format("woff"), url(YekanNIE-Regular.ttf) format("truetype");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'YekanNIE';
+	src: url(YekanNIE-Bold.eot);
+	src: url(YekanNIE-Bold.eot?#iefix) format("embedded-opentype"), url(YekanNIE-Bold.woff) format("woff"), url(YekanNIE-Bold.ttf) format("truetype");
+	font-weight: 700;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'vyekan';
+	src: url(yekan.eot);
+	src: url(yekan.eot?#iefix) format("embedded-opentype"), url(yekan.woff) format("woff"), url(yekan.ttf) format("truetype"), url(yekan.svg#vyekan) format("svg");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'wyekan';
+	src: url(wYekan.eot);
+	src: url(wYekan.eot?#iefix) format("embedded-opentype"), url(wYekan.woff) format("woff"), url(wYekan.ttf) format("truetype"), url(wYekan.svg#wyekan) format("svg");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'yekanw';
+	src: url(Yekanw.eot);
+	src: url(Yekanw.eot?#iefix) format("embedded-opentype"), url(Yekanw.woff) format("woff"), url(Yekanw.ttf) format("truetype"), url(Yekanw.svg#yekanw) format("svg");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'yekannumber';
+	src: url(yekannumbers.eot) format("eot"), url(yekannumbers.woff) format("woff"), url(yekannumbers.ttf) format("truetype")}
+
+
+@font-face{
+	font-family: 'iransansnumber';
+	src: url(iransansnumber.eot) format("eot"), url(iransansnumber.woff) format("woff"), url(iransansnumber.ttf) format("truetype")}
+
+
+@font-face{
+	font-family: 'BNazanin';
+	src: url(BNazanin.eot);
+	src: url(BNazanin.eot?#iefix) format("embedded-opentype"), url(BNazanin.woff) format("woff"), url(BNazanin.ttf) format("truetype"), url(BNazanin.svg#BNazanin) format("svg");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'BNazanin';
+	src: url(BNazaninBold.eot);
+	src: url(BNazaninBold.eot?#iefix) format("embedded-opentype"), url(BNazaninBold.woff) format("woff"), url(BNazaninBold.ttf) format("truetype"), url(BNazaninBold.svg#BNazaninBold) format("svg");
+	font-weight: 700;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'bahij';
+	src: url(bahij.eot);
+	src: url(bahij.eot?#iefix) format("embedded-opentype"), url(bahij.woff) format("woff"), url(bahij.ttf) format("truetype");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'bahij';
+	src: url(bahij_bold.eot);
+	src: url(bahij_bold.eot?#iefix) format("embedded-opentype"), url(bahij_bold.woff) format("woff"), url(bahij_bold.ttf) format("truetype");
+	font-weight: 700;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'opensans';
+	src: url(OpenSans-Regular.eot);
+	src: url(OpenSans-Regular.eot?#iefix) format("embedded-opentype"), url(OpenSans-Regular.woff) format("woff"), url(OpenSans-Regular.ttf) format("truetype"), url(OpenSans-Regular.svg#OpenSans-Regular) format("svg");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'opensans';
+	src: url(OpenSans-Bold.eot);
+	src: url(OpenSans-Bold.eot?#iefix) format("embedded-opentype"), url(OpenSans-Bold.woff) format("woff"), url(OpenSans-Bold.ttf) format("truetype"), url(OpenSans-Bold.svg#OpenSans-Bold) format("svg");
+	font-weight: 700;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'BMitra';
+	src: url(BMitra.eot);
+	src: url(BMitra.eot?#iefix) format("embedded-opentype"), url(BMitra.woff) format("woff"), url(BMitra.ttf) format("truetype"), url(BMitra.svg#BMitra) format("svg");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'Nassim';
+	src: url(nassim.eot);
+	src: url(nassim.eot?#iefix) format("embedded-opentype"), url(nassim.woff) format("woff"), url(nassim.ttf) format("truetype");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'Nassim';
+	src: url(nassim-bold.eot);
+	src: url(nassim-bold.eot?#iefix) format("embedded-opentype"), url(nassim-bold.woff) format("woff"), url(nassim-bold.ttf) format("truetype");
+	font-weight: 700;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'BRoya';
+	src: url(BRoya.eot);
+	src: url(BRoya.eot?#iefix) format("embedded-opentype"), url(BRoya.woff) format("woff"), url(BRoya.ttf) format("truetype"), url(BRoya.svg#BRoya) format("svg");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'wRoya';
+	src: url(RoyaWeb-Regular.eot);
+	src: url(RoyaWeb-Regular.eot?#iefix) format("embedded-opentype"), url(RoyaWeb-Regular.woff) format("woff"), url(RoyaWeb-Regular.ttf) format("truetype"), url(RoyaWeb-Regular.svg#RoyaWeb-Regular) format("svg");
+	font-weight: normal;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'wRoya';
+	src: url(RoyaWeb-Bold.eot);
+	src: url(RoyaWeb-Bold.eot?#iefix) format("embedded-opentype"), url(RoyaWeb-Bold.woff) format("woff"), url(RoyaWeb-Bold.ttf) format("truetype"), url(RoyaWeb-Bold.svg#RoyaWeb-Bold) format("svg");
+	font-weight: bold;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'Dinar';
+	src: url(Dinar.eot);
+	src: url(Dinar.eot?#iefix) format("embedded-opentype"), url(Dinar.woff) format("woff"), url(Dinar.ttf) format("truetype"), url(Dinar.svg#Dinar) format("svg");
+	font-weight: 400;
+	font-style: normal}
+	
+@font-face{
+	font-family: 'Dinar2';
+	src: url(Dinar2.eot);
+	src: url(Dinar2.eot?#iefix) format("embedded-opentype"), url(Dinar2.woff) format("woff"), url(Dinar2.ttf) format("truetype"), url(Dinar2.svg#Dinar2) format("svg");
+	font-weight: 400;
+	font-style: normal}
+	
+@font-face{
+	font-family: 'Dinar3';
+	src: url(Dinar3.eot);
+	src: url(Dinar3.eot?#iefix) format("embedded-opentype"), url(Dinar3.woff) format("woff"), url(Dinar3.ttf) format("truetype"), url(Dinar3.svg#Dinar3) format("svg");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'mj_unique';
+	src: url(mj_unique_light.eot);
+	src: url(mj_unique_light.eot?#iefix) format("embedded-opentype"), url(mj_unique_light.woff) format("woff"), url(mj_unique_light.ttf) format("truetype"), url(mj_unique_light.svg#mj_unique_light) format("svg");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'segoe';
+	src: url(Segoe-UI.woff) format("woff"), url(Segoe-UI.ttf) format("truetype");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'agoogle';
+	src: url(agoogle.eot);
+	src: url(agoogle.eot?#iefix) format("embedded-opentype"), url(agoogle.woff) format("woff"), url(agoogle.ttf) format("truetype");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'narm';
+	src: url(BNarm.eot);
+	src: url(BNarm.eot?#iefix) format("embedded-opentype"), url(BNarm.woff) format("woff"), url(BNarm.ttf) format("truetype");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'SinaBold';
+	src: url(BSinaBold.eot);
+	src: url(BSinaBold.eot?#iefix) format("embedded-opentype"), url(BSinaBold.woff) format("woff"), url(BSinaBold.ttf) format("truetype");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'ziba';
+	src: url(BZiba.eot);
+	src: url(BZiba.eot?#iefix) format("embedded-opentype"), url(BZiba.woff) format("woff"), url(BZiba.ttf) format("truetype");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'nesf';
+	src: url(Nesf.eot);
+	src: url(Nesf.eot?#iefix) format("embedded-opentype"), url(Nesf.woff) format("woff"), url(Nesf.ttf) format("truetype");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'xerosans';
+	src: url(XTX-FNT-XEROSANS-BLACK.woff) format("woff"), url(XTX-FNT-XEROSANS-BLACK.ttf) format("truetype");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'Droid Arabic Naskh';
+	font-style: normal;
+	font-weight: 400;
+	src: url(DroidNaskh-Regular.eot);
+	src: url(DroidNaskh-Regular.eot?#iefix) format("embedded-opentype"), url(DroidNaskh-Regular.woff2) format("woff2"), url(DroidNaskh-Regular.woff) format("woff"), url(DroidNaskh-Regular.ttf) format("truetype")}
+
+
+@font-face{
+	font-family: 'Droid Arabic Naskh';
+	font-style: normal;
+	font-weight: 700;
+	src: url(DroidNaskh-Bold.eot);
+	src: url(DroidNaskh-Bold.eot?#iefix) format("embedded-opentype"), url(DroidNaskh-Bold.woff2) format("woff2"), url(DroidNaskh-Bold.woff) format("woff"), url(DroidNaskh-Bold.ttf) format("truetype")}
+
+
+@font-face{
+	font-family: 'Droid Arabic Kufi';
+	font-style: normal;
+	font-weight: 400;
+	src: url(DroidKufi-Regular.eot);
+	src: url(DroidKufi-Regular.eot?#iefix) format("embedded-opentype"), url(DroidKufi-Regular.woff2) format("woff2"), url(DroidKufi-Regular.woff) format("woff"), url(DroidKufi-Regular.ttf) format("truetype")}
+
+
+@font-face{
+	font-family: 'Droid Arabic Kufi';
+	font-style: normal;
+	font-weight: 700;
+	src: url(DroidKufi-Bold.eot);
+	src: url(DroidKufi-Bold.eot?#iefix) format("embedded-opentype"), url(DroidKufi-Bold.woff2) format("woff2"), url(DroidKufi-Bold.woff) format("woff"), url(DroidKufi-Bold.ttf) format("truetype")}
+
+
+@font-face{
+	font-family: 'IranianSans';
+	src: url(IranianSansRegular.eot);
+	src: url(IranianSansRegular.eot?#iefix) format("embedded-opentype"), url(IranianSansRegular.woff) format("woff"), url(IranianSansRegular.ttf) format("truetype");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'IranianSans';
+	src: url(IranianSansBold.eot);
+	src: url(IranianSansBold.eot?#iefix) format("embedded-opentype"), url(IranianSansBold.woff) format("woff"), url(IranianSansBold.ttf) format("truetype");
+	font-weight: 700;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'iransans';
+	src: url(iransans.eot);
+	src: url(iransans.eot?#iefix) format("embedded-opentype"), url(iransans.woff) format("woff"), url(iransans.ttf) format("truetype"), url(iransans.svg#iransans) format("svg");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'IRANSans-web';
+	src: url(IRANSans-UltraLight-web.eot);
+	src: url(IRANSans-UltraLight-web.eot?#iefix) format("eot"), url(IRANSans-UltraLight-web.woff2) format("woff2"), url(IRANSans-UltraLight-web.woff) format("woff"), url(IRANSans-UltraLight-web.ttf) format("ttf");
+	font-weight: 200}
+
+
+@font-face{
+	font-family: 'IRANSans-web';
+	src: url(IRANSans-Light-web.eot);
+	src: url(IRANSans-Light-web.eot?#iefix) format("eot"), url(IRANSans-Light-web.woff2) format("woff2"), url(IRANSans-Light-web.woff) format("woff"), url(IRANSans-Light-web.ttf) format("ttf");
+	font-weight: 300}
+
+
+@font-face{
+	font-family: 'IRANSans-web';
+	src: url(IRANSans-web.eot);
+	src: url(IRANSans-web.eot?#iefix) format("eot"), url(IRANSans-web.woff2) format("woff2"), url(IRANSans-web.woff) format("woff"), url(IRANSans-web.ttf) format("ttf");
+	font-weight: 400}
+
+
+@font-face{
+	font-family: 'IRANSans-web';
+	src: url(IRANSans-Bold-web.eot);
+	src: url(IRANSans-Bold-web.eot?#iefix) format("eot"), url(IRANSans-Bold-web.woff2) format("woff2"), url(IRANSans-Bold-web.woff) format("woff"), url(IRANSans-Bold-web.ttf) format("ttf");
+	font-weight: 700}
+
+
+@font-face{
+	font-family: 'IRANSans-web';
+	src: url(IRANSans-Medium-web.eot);
+	src: url(IRANSans-Medium-web.eot?#iefix) format("eot"), url(IRANSans-Medium-web.woff2) format("woff2"), url(IRANSans-Medium-web.woff) format("woff"), url(IRANSans-Medium-web.ttf) format("ttf");
+	font-weight: 500}
+
+
+@font-face{
+	font-family: 'Mirza';
+	src: url(Mirza.eot);
+	src: url(Mirza.eot?#iefix) format("eot"), url(Mirza.woff) format("woff"), url(Mirza.ttf) format("ttf");
+	font-weight: 400}
+
+
+@font-face{
+	font-family: 'Mirza';
+	src: url(Mirza-Bold.eot);
+	src: url(Mirza-Bold.eot?#iefix) format("eot"), url(Mirza-Bold.woff) format("woff"), url(Mirza-Bold.ttf) format("ttf");
+	font-weight: 700}
+
+
+@font-face{
+	font-family: 'amh';
+	src: url(amh.eot);
+	src: url(amh.eot?#iefix) format("eot"), url(amh.woff) format("woff"), url(amh.ttf) format("ttf");
+	font-weight: 400}
+
+
+@font-face{
+	font-family: 'Higgs-Helve23';
+	src: url(helveticaneuew23.eot);
+	src: url(helveticaneuew23.eot?#iefix) format("eot"), url(helveticaneuew23.woff) format("woff"), url(helveticaneuew23.ttf) format("ttf")}
+
+
+@font-face{
+	font-family: 'tahrirmksgraphic';
+	src: url(a-naskh-tahrirmksgraphic.eot);
+	src: url(a-naskh-tahrirmksgraphic.eot?#iefix) format("eot"), url(a-naskh-tahrirmksgraphic.woff) format("woff"), url(a-naskh-tahrirmksgraphic.ttf) format("ttf"), url(a-naskh-tahrirmksgraphic.svg#tahrirmksgraphic) format("svg");
+	font-weight: 400}
+
+
+@font-face{
+	font-family: 'irannastaliq';
+	src: url(irannastaliq.eot#iefix) format("embedded-opentype"), url(irannastaliq.woff) format("woff"), url(irannastaliq.ttf) format("ttf");
+	font-weight: 400}
+
+
+@font-face{
+	font-family: "Gandom";
+	font-weight: 400;
+	src: url(a_Gandom.eot#iefix) format("embedded-opentype"), url(a_Gandom.woff) format("woff"), url(a_Gandom.ttf) format("truetype")}
+
+
+@font-face{
+	font-family: "Gandom";
+	font-weight: 700;
+	src: url(a_Gandom-Bold.eot#iefix) format("embedded-opentype"), url(a_Gandom-Bold.woff) format("woff"), url(a_Gandom-Bold.ttf) format("truetype")}
+
+
+@font-face{
+	font-family: "HPTunisia";
+	font-weight: 700;
+	src: url(HPTunisia.eot#iefix) format("embedded-opentype"), url(HPTunisia.woff) format("woff"), url(HPTunisia.ttf) format("truetype")}
+
+
+@font-face{
+	font-family: "thameen";
+	font-weight: 400;
+	src: url(thameen.eot#iefix) format("embedded-opentype"), url(thameen.woff) format("woff"), url(thameen.ttf) format("truetype")}
+
+
+@font-face{
+	font-family: "hana";
+	font-weight: 200;
+	src: url(hana-light.eot#iefix) format("embedded-opentype"), url(hana-light.woff) format("woff"), url(hana-light.ttf) format("truetype")}
+
+
+@font-face{
+	font-family: "hana";
+	font-weight: 400;
+	src: url(hana.eot#iefix) format("embedded-opentype"), url(hana.woff) format("woff"), url(hana.ttf) format("truetype")}
+
+
+@font-face{
+	font-family: "zienab";
+	font-weight: 400;
+	src: url(zienab.eot#iefix) format("embedded-opentype"), url(zienab.woff) format("woff"), url(zienab.ttf) format("truetype")}
+
+
+@font-face{
+	font-family: "wneirizi";
+	font-weight: 400;
+	src: url(wneirizi.eot#iefix) format("embedded-opentype"), url(wneirizi.woff) format("woff"), url(wneirizi.ttf) format("truetype")}
+
+
+@font-face
+{
+	font-family: "whejaz";
+	font-weight: 400;
+	src: url(W_hejaz.eot#iefix) format("embedded-opentype"), url(W_hejaz.woff) format("woff"), url(W_hejaz.ttf) format("truetype")}
+
+
+@font-face{
+	font-family: 'Jaam';
+	src: url(JameJam-Ulter-Light.eot);
+	src: url(JameJam-Ulter-Light.eot?#iefix) format("eot"), url(JameJam-Ulter-Light.woff) format("woff"), url(JameJam-Ulter-Light.ttf) format("ttf");
+	font-weight: 200}
+
+
+@font-face{
+	font-family: 'Jaam';
+	src: url(JameJam-Light.eot);
+	src: url(JameJam-Light.eot?#iefix) format("eot"), url(JameJam-Light.woff) format("woff"), url(JameJam-Light.ttf) format("ttf");
+	font-weight: 300}
+
+
+@font-face{
+	font-family: 'Jaam';
+	src: url(JameJam-Regular.eot);
+	src: url(JameJam-Regular.eot?#iefix) format("eot"), url(JameJam-Regular.woff) format("woff"), url(JameJam-Regular.ttf) format("ttf");
+	font-weight: 400}
+
+
+@font-face{
+	font-family: 'Jaam';
+	src: url(JameJam-Bold.eot);
+	src: url(JameJam-Bold.eot?#iefix) format("eot"), url(JameJam-Bold.woff) format("woff"), url(JameJam-Bold.ttf) format("ttf");
+	font-weight: 700}
+
+
+@font-face{
+	font-family: 'casablanka';
+	src: url(casablanka.eot);
+	src: url(casablanka.eot?#iefix) format("embedded-opentype"), url(casablanka.woff) format("woff"), url(casablanka.ttf) format("truetype");
+	font-weight: 400;
+	font-style: normal}
+
+
+@font-face{
+	font-family: 'SansArabic';
+	src: url(Bahij_TheSansArabic-ExtraLight.eot);
+	src: local(â˜º), url(Bahij_TheSansArabic-ExtraLight.woff) format("woff"), url(Bahij_TheSansArabic-ExtraLight.ttf) format("truetype");
+	font-weight: 200}
+
+
+@font-face{
+	font-family: 'SansArabic';
+	src: url(Bahij_TheSansArabic-Light.eot);
+	src: local(â˜º), url(Bahij_TheSansArabic-Light.woff) format("woff"), url(Bahij_TheSansArabic-Light.ttf) format("truetype");
+	font-weight: 300}
+
+
+@font-face{
+	font-family: 'SansArabic';
+	src: url(Bahij_TheSansArabic-SemiLight.eot);
+	src: local(â˜º), url(Bahij_TheSansArabic-SemiLight.woff) format("woff"), url(Bahij_TheSansArabic-SemiLight.ttf) format("truetype");
+	font-weight: 400}
+
+
+@font-face{
+	font-family: 'SansArabic';
+	src: url(Bahij_TheSansArabic-Plain.eot);
+	src: local(â˜º), url(Bahij_TheSansArabic-Plain.woff) format("woff"), url(Bahij_TheSansArabic-Plain.ttf) format("truetype");
+	font-weight: 400}
+
+
+@font-face{
+	font-family: 'SansArabic';
+	src: url(Bahij_TheSansArabic-SemiBold.eot);
+	src: local(â˜º), url(Bahij_TheSansArabic-SemiBold.woff) format("woff"), url(Bahij_TheSansArabic-SemiBold.ttf) format("truetype");
+	font-weight: 600}
+
+
+@font-face{
+	font-family: 'SansArabic';
+	src: url(Bahij_TheSansArabic-Bold.eot);
+	src: local(â˜º), url(Bahij_TheSansArabic-Bold.woff) format("woff"), url(Bahij_TheSansArabic-Bold.ttf) format("truetype");
+	font-weight: 700}
+
+
+@font-face{
+	font-family: 'SansArabic';
+	src: url(Bahij_TheSansArabic-ExtraBold.eot);
+	src: local(â˜º), url(Bahij_TheSansArabic-ExtraBold.woff) format("woff"), url(Bahij_TheSansArabic-ExtraBold.ttf) format("truetype");
+	font-weight: 800}
+
+
+@font-face{
+	font-family: 'SansArabic';
+	src: url(Bahij_TheSansArabic-Black.eot);
+	src: local(â˜º), url(Bahij_TheSansArabic-Black.woff) format("woff"), url(Bahij_TheSansArabic-Black.ttf) format("truetype");
+	font-weight: 900}
+
+/* www.nie.ir Webfont pack - 2016 */
+@font-face{
+	font-family: 'vazir';
+	src: url(vazir.eot);
+	src: url(vazir.eot?#iefix) format("eot"), url(vazir.woff) format("woff"), url(vazir.ttf) format("ttf");
+	font-weight: 400}
+
+
+@font-face{
+	font-family: 'samim';
+	src: url(samim.eot);
+	src: url(samim.eot?#iefix) format("eot"), url(samim.woff) format("woff"), url(samim.ttf) format("ttf");
+	font-weight: 400}
+
+
+@font-face{
+	font-family: 'hanieh';
+	src: url(hanieh-Light.eot);
+	src: url(hanieh-Light.eot?#iefix) format("eot"), url(hanieh-Light.woff) format("woff"), url(hanieh-Light.ttf) format("ttf");
+	font-weight: 200}
+
+
+@font-face{
+	font-family: 'hanieh';
+	src: url(hanieh-Regular.eot);
+	src: url(hanieh-Regular.eot?#iefix) format("eot"), url(hanieh-Regular.woff) format("woff"), url(hanieh-Regular.ttf) format("ttf");
+	font-weight: 400}
+
+
+@font-face{
+	font-family: 'hanieh';
+	src: url(hanieh-Medium.eot);
+	src: url(hanieh-Medium.eot?#iefix) format("eot"), url(hanieh-Medium.woff) format("woff"), url(hanieh-Medium.ttf) format("ttf");
+	font-weight: 700}
+
+
+@font-face{
+	font-family: 'hanieh';
+	src: url(hanieh-Bold.eot);
+	src: url(hanieh-Bold.eot?#iefix) format("eot"), url(hanieh-Bold.woff) format("woff"), url(hanieh-Bold.ttf) format("ttf");
+	font-weight: 900}
+
+
+@font-face{
+	font-family: 'frutiger';
+	src: url(frutiger.eot);
+	src: url(frutiger.eot?#iefix) format("eot"), url(frutiger.woff) format("woff"), url(frutiger.ttf) format("ttf");
+	font-weight: 400}
+
+
+@font-face{
+	font-family: 'aban';
+	src: url(aban.eot);
+	src: url(aban.eot?#iefix) format("eot"), url(aban.woff) format("woff"), url(aban.ttf) format("ttf");
+	font-weight: 400}
+
+
+@font-face{
+	font-family: 'lalezar';
+	src:  url(Lalezar-Regular.eot);
+	src:  url(Lalezar-Regular.eot?#iefix) format("eot"), url(Lalezar-Regular.woff) format("woff"), url(Lalezar-Regular.ttf) format("ttf");
+	font-weight:  400}
+
+
+@font-face {
+	font-family: 'shablon';
+	src:  url(shablon.eot);
+	src:  url(shablon.eot?#iefix) format("eot"), url(shablon.woff) format("woff"), url(shablon.ttf) format("ttf");
+	font-weight:  400}
+
+
+@font-face{
+	font-family: 'wsahel';
+	src: url(Sahel-FD-WOL.eot);
+	src: url(Sahel-FD-WOL.eot?#iefix) format("eot"), url(Sahel-FD-WOL.woff) format("woff"), url(Sahel-FD-WOL.ttf) format("ttf");
+	font-weight:  normal}
+
+
+@font-face{
+	font-family: 'wsahel';
+	src: url(Sahel-Bold-FD-WOL.eot);
+	src: url(Sahel-Bold-FD-WOL.eot?#iefix) format("eot"), url(Sahel-Bold-FD-WOL.woff) format("woff"), url(Sahel-Bold-FD-WOL.ttf) format("ttf");
+	font-weight: bold}
+
+
+@font-face{
+	font-family: 'wsahel';
+	src: url(Sahel-Black-FD-WOL.eot);
+	src: url(Sahel-Black-FD-WOL.eot?#iefix) format("eot"), url(Sahel-Black-FD-WOL.woff) format("woff"), url(Sahel-Black-FD-WOL.ttf) format("ttf");
+	font-weight: 900}
+
+@font-face{
+	font-family: 'Sahel-WOL';
+	src: url(Sahel-WOL.eot);
+	src: url(Sahel-WOL.eot?#iefix) format("eot"), url(Sahel-WOL.woff) format("woff"), url(Sahel-WOL.ttf) format("ttf");
+	font-weight: 900}
+
+
+@font-face {
+	font-family: 'ganjnameh';
+	src: url(GanjNamehSans-Regular.eot);
+	src: url(GanjNamehSans-Regular.eot?#iefix) format("eot"), url(GanjNamehSans-Regular.woff) format("woff"), url(GanjNamehSans-Regular.ttf) format("ttf");
+	font-weight:  400}
+
+
+@font-face {
+	font-family: 'jomhuria';
+	src: url(Jomhuria-Regular.eot);
+	src: url(Jomhuria-Regular.eot?#iefix) format("eot"), url(Jomhuria-Regular.woff) format("woff"), url(Jomhuria-Regular.ttf) format("ttf");
+	font-weight:  400}
+
+	@font-face{
+	font-family: 'jazeera';
+	src: url(Al-Jazeera-Arabic-Light.eot);
+	src: url(Al-Jazeera-Arabic-Light.eot?#iefix) format("eot"), url(Al-Jazeera-Arabic-Light.woff2) format("woff2"), url(Al-Jazeera-Arabic-Light.woff) format("woff"), url(Al-Jazeera-Arabic-Light.ttf) format("ttf");
+	font-weight: 200}
+
+@font-face{
+	font-family: 'jazeera';
+	src: url(Al-Jazeera-Arabic-Regular.eot);
+	src: url(Al-Jazeera-Arabic-Regular.eot?#iefix) format("eot"), url(Al-Jazeera-Arabic-Regular.woff) format("woff"), url(Al-Jazeera-Arabic-Regular.ttf) format("ttf");
+	font-weight: 400}
+
+
+@font-face{
+	font-family: 'jazeera';
+	src: url(Al-Jazeera-Arabic-Bold.eot);
+	src: url(Al-Jazeera-Arabic-Bold.eot?#iefix) format("eot"), url(Al-Jazeera-Arabic-Bold.woff) format("woff"), url(Al-Jazeera-Arabic-Bold.ttf) format("ttf");
+	font-weight: 600}
+
+@font-face{
+	font-family: 'IRANSans-NIE';
+	src: url(IRANSans-UltraLight-NIE.eot);
+	src: url(IRANSans-UltraLight-NIE.eot?#iefix) format("eot"), url(IRANSans-UltraLight-NIE.woff2) format("woff2"), url(IRANSans-UltraLight-NIE.woff) format("woff"), url(IRANSans-UltraLight-NIE.ttf) format("ttf");
+	font-weight: 200}
+
+
+@font-face{
+	font-family: 'IRANSans-NIE';
+	src: url(IRANSans-Light-NIE.eot);
+	src: url(IRANSans-Light-NIE.eot?#iefix) format("eot"), url(IRANSans-Light-NIE.woff2) format("woff2"), url(IRANSans-Light-NIE.woff) format("woff"), url(IRANSans-Light-NIE.ttf) format("ttf");
+	font-weight: 300}
+
+
+@font-face{
+	font-family: 'IRANSans-NIE';
+	src: url(IRANSans-NIE.eot);
+	src: url(IRANSans-NIE.eot?#iefix) format("eot"), url(IRANSans-NIE.woff2) format("woff2"), url(IRANSans-NIE.woff) format("woff"), url(IRANSans-NIE.ttf) format("ttf");
+	font-weight: 400}
+
+
+@font-face{
+	font-family: 'IRANSans-NIE';
+	src: url(IRANSans-Bold-NIE.eot);
+	src: url(IRANSans-Bold-NIE.eot?#iefix) format("eot"), url(IRANSans-Bold-NIE.woff2) format("woff2"), url(IRANSans-Bold-NIE.woff) format("woff"), url(IRANSans-Bold-NIE.ttf) format("ttf");
+	font-weight: 700}
+
+
+@font-face{
+	font-family: 'IRANSans-NIE';
+	src: url(IRANSans-Medium-NIE.eot);
+	src: url(IRANSans-Medium-NIE.eot?#iefix) format("eot"), url(IRANSans-Medium-NIE.woff2) format("woff2"), url(IRANSans-Medium-NIE.woff) format("woff"), url(IRANSans-Medium-NIE.ttf) format("ttf");
+	font-weight: 500}
+
+@font-face {
+	font-family: 'yekanbw';
+	src:  url(yekanbw.eot);
+	src:  url(yekanbw.eot?#iefix) format("eot"), url(yekanbw.woff) format("woff"), url(yekanbw.woff2) format("woff2"), url(yekanbw.ttf) format("ttf");
+	font-weight:  400}
+	
+@font-face{
+	font-family: 'YekanBakh';
+	src: url(YekanBakhW.eot);
+	src: url(YekanBakhW.eot?#iefix) format("embedded-opentype"), url(YekanBakhW.woff) format("woff"), url(YekanBakhW.ttf) format("truetype");
+	font-weight: 400;
+	font-style: normal}
+
+@font-face{
+	font-family: 'YekanBakh';
+	src: url(YekanBakhW-Bold.eot);
+	src: url(YekanBakhW-Bold.eot?#iefix) format("embedded-opentype"), url(YekanBakhW-Bold.woff) format("woff"), url(YekanBakhW-Bold.ttf) format("truetype");
+	font-weight: bold;
+	font-style: normal}
+	
+@font-face{
+	font-family: 'liza';
+	src: url(liza.eot);
+	src: url(liza.eot?#iefix) format("embedded-opentype"), url(liza.woff) format("woff"), url(liza.ttf) format("truetype");
+	font-weight: bold;
+	font-style: normal}

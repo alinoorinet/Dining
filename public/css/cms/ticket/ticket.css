@@ -1,0 +1,82 @@
+#ticketTbl.table td,
+#ticketInfoTbl.table td,
+#ticketEditTbl.table td{
+    border-top: none;
+    vertical-align: middle;
+    padding: 0.1rem;
+}
+@font-face {
+    font-family: 'iranyekan';
+    src: url('../../../fonts/IRANYEKANWEBBOLD.eot');
+    src: url('../../../fonts/IRANYekanWeb.woff') format('woff'),
+    url('../../../fonts/IRANYekanWeb.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'dosis';
+    src: url('../../../fonts/Dosis-Bold.eot');
+    src: url('../../../fonts/Dosis-Bold.woff') format('woff'),
+    url('../../../fonts/Dosis-Bold.ttf') format('truetype'),
+    url('../../../fonts/Dosis-Bold.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+.bg-yellow {
+    background-color: #ffd200;
+}
+.border-right {
+    border-right:3px solid #7f7e7d;
+}
+.with {
+    width: 100%;
+    padding: 4px 1px;
+    background-color: #ffffff;
+    border-color: #f1f1f1;
+}
+.with:hover {
+    background-color: #ffe748;
+    border-color: #ffdc75;
+}
+.center {
+    margin: auto;
+}
+.badge-head {
+    font-family: iranyekan;
+    font-size: 13px;
+}
+.badge-body {
+    font-family: dosis;
+    font-size: 20px;
+
+}
+.sender {
+    font-family: iranyekan,IRANSans;
+    font-size: 13px;
+}
+.time {
+
+    color: #8e8e8e;
+    font-size: 10px;
+}
+.state {
+    font-size: 12px;
+    margin: auto;
+    line-height: 22px;
+}
+.icons {
+    padding: 3px 0 3px 0;
+}
+.icons .col-sm-4,
+.icons .col-sm-8{
+    padding-right: 0;
+    padding-left: 0;
+}
+.icons .col-sm-12 {
+    padding: 0;
+}
+
+.padding{
+    margin: auto;
+}

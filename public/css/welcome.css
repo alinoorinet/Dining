@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'IRANYekanWeb-Light';
+    src: url('../fonts/IRANYekanWeb-Light.ttf') format('truetype'),
+    url('../fonts/IRANYekanWeb-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "IranSansNumbers";
+    src: url("../fonts/iransansnumber.eot");
+    src: url("../fonts/iransansnumber.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/iransansnumber.otf") format("opentype"),
+    url("../fonts/iransansnumber.svg") format("svg"),
+    url("../fonts/iransansnumber.ttf") format("truetype"),
+    url("../fonts/iransansnumber.woff") format("woff"),
+    url("../fonts/iransansnumber.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+.font10 {
+    font-size: 10px;
+}
+.font11 {
+    font-size: 11px;
+}
+.font12 {
+    font-size: 12px;
+}
+.font13 {
+    font-size: 13px;
+}
+.font14 {
+    font-size: 14px;
+}
+.font15 {
+    font-size: 15px;
+}
+.font16 {
+    font-size: 16px;
+}
+.font17 {
+    font-size: 17px;
+}
+.font22 {
+    font-size: 17px;
+}
+input {
+    font-family: inherit;
+}
+::-webkit-input-placeholder {
+    font-family: IRANYekanWeb-Light,IranSansNumbers;
+    color: peachpuff;
+    font-size: 13px;
+}
+::-moz-placeholder {
+    font-family: IRANYekanWeb-Light,IranSansNumbers;
+    color: peachpuff;
+    font-size: 13px;
+}
+:-ms-input-placeholder {
+    font-family: IRANYekanWeb-Light,IranSansNumbers;
+    color: peachpuff;
+    font-size: 13px;
+}
+::placeholder {
+    font-family: IRANYekanWeb-Light,IranSansNumbers;
+    color: peachpuff;
+    font-size: 13px;
+}
+input[type="text"]::-webkit-input-placeholder {
+    font-family: IRANYekanWeb-Light,IranSansNumbers;
+}
+body {
+    font-family: IRANYekanWeb-Light,IranSansNumbers;
+    font-size: 16px;
+    text-align: right;
+    color: #444;
+    background: #d0d0d0;
+    direction: rtl;
+}

@@ -1,0 +1,93 @@
+liza
+YekanBakhW ** 400
+YekanBakhW ** bold
+yekanbk
+IRANSans-NIE ** 200
+IRANSans-NIE ** 300
+IRANSans-NIE ** 400
+IRANSans-NIE ** 500
+IRANSans-NIE ** bold
+jazeera ** 200
+jazeera ** 400
+jazeera ** 600
+ganjnameh
+jomhuria
+wRoya ** bold
+wRoya ** normal
+sahel
+shablon
+lalezar
+aban
+frutiger
+hanieh ** 900
+hanieh ** bold
+hanieh ** normal
+hanieh ** 200
+samim
+vazir
+SansArabic ** 200
+SansArabic ** 300
+SansArabic ** 400
+SansArabic ** normal
+SansArabic ** 600
+SansArabic ** bold
+SansArabic ** 800
+SansArabic ** 900
+casablanka
+jaam ** bold
+jaam ** 200
+jaam ** 300
+jaam ** 400-normal
+whejaz
+wneirizi
+thameen
+zienab
+hana ** 400
+hana ** bold
+HPTunisia
+Gandom ** 400
+Gandom ** bold
+irannastaliq
+tahrirmksgraphic
+Higgs-Helve23
+amh
+Mirza ** 400
+Mirza ** bold
+IRANSans-web ** 200
+IRANSans-web ** 300
+IRANSans-web ** 400
+IRANSans-web ** 500
+IRANSans-web ** bold
+iransans
+IranianSans ** 400
+IranianSans ** bold
+Droid Arabic Kufi ** 400
+Droid Arabic Kufi ** 700
+Droid Arabic Naskh ** 400
+Droid Arabic Naskh ** 700
+xerosans
+nesf
+ziba
+SinaBold
+narm
+agoogle
+segoe
+mj_unique
+Dinar
+BRoya
+Nassim ** 400
+Nassim ** bold
+BMitra
+opensans ** 400
+opensans ** bold
+bahij
+bahij ** 700
+B Nazanin ** 400
+B Nazanin ** bold
+iransansnumber
+yekannumber
+yekanw
+wyekan
+vyekan
+byekan
+yekannie
