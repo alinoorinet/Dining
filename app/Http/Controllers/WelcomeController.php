@@ -83,7 +83,7 @@ class WelcomeController extends Controller
         if($request->query('tk')) {
             $tk = $request->query('tk');
             $url  = env('AUTH_URL');
-            $url .= "/login-api/d8wl9co93uao2ab4czjp9ek4imz2np7r8/".$tk;
+            $url .= "/login-api/token/".$tk;
             $curl = curl_init();
             curl_setopt_array($curl, array(
                 CURLOPT_RETURNTRANSFER => true,
@@ -494,7 +494,7 @@ class WelcomeController extends Controller
         ]);
         if(!$v->fails()) {
             //$referer = parse_url($_SERVER['HTTP_HOST']);
-            if($token == 'd8wl9co93uao2ab4czjp9ek4imz2np7r8'){
+            if($token == 'token'){
                 $user = User::where('username', $username)->first();
                 if ($user) {
                     $user->sso = 0;
