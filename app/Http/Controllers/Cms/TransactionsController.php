@@ -118,8 +118,7 @@ class TransactionsController extends Controller
         return redirect()->back()->with('dangerMsg','دسترسی شما به این بخش امکان پذیر نمی باشد');
     }
 
-    //protected $merchant = 'BE62';
-    protected $merchant = 'D10A';
+    protected $merchant = '-';
 
     public function inquiry(Request $request)
     {
