@@ -43,31 +43,10 @@ class ReservationController extends Controller
     {
         return [
             'صبحانه' => [
-                '9713117617',
-                '9714113206',
-                '9813118901',//ایزدزاده
-                '9713117918',
-                '9812210002',// بهراد نژاد
-                '9714112310',
-                '9813118518',
             ],
             'نهار' => [
-                '9713117617',
-                '9714113206',
-                '9813118901',//ایزدزاده
-                '9713117918',
-                '9812210002',// بهراد نژاد
-                '9714112310',
-                '9813118518',
             ],
             'شام'  => [
-                '9713117617',
-                '9714113206',
-                '9813118901',//ایزدزاده
-                '9713117918',
-                '9812210002',// بهراد نژاد
-                '9714112310',
-                '9813118518',
             ],
         ];
     }
@@ -101,8 +80,8 @@ class ReservationController extends Controller
     }
 
 
-    protected $MerchantId = 'BE62';
-    protected $sha1Key = '22338240992352910814917221751200141041845518824222260';
+    protected $MerchantId = '-';
+    protected $sha1Key = '-';
 
     public function pay(Request $request)
     {
@@ -159,7 +138,7 @@ class ReservationController extends Controller
             $params['paymentId']        = $trans->id;
             $params['specialPaymentId'] = 'dining'.$invoiceNumber;
             $params['revertURL']        = $revertURL;
-            $params['description']      = "افزایش اعتبار سامانه تغذیه دانشگاه ایلام";
+            $params['description']      = "افزایش اعتبار سامانه تغذیه -";
             try {
                 $result = $client->__soapCall("MakeToken", array($params));
                 $token  = $result->MakeTokenResult->token;
